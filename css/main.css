@@ -1,0 +1,25 @@
+#main {
+  background-color: white;
+  width: 86%;
+  text-align: center;
+  border-radius: 20px;
+}
+p{
+  font-size: 20px;
+}
+
+.btn{
+  padding: 0;
+  border: none;
+  background: none;
+}
+
+.btn:hover{
+  border: none;
+  outline: none;
+  background-color: transparent;
+}
+
+.btn:focus{
+  outline: none;
+}
